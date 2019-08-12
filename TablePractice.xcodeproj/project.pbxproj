@@ -13,6 +13,7 @@
 		E87D02312301EABE005C3357 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E87D022F2301EABE005C3357 /* LaunchScreen.storyboard */; };
 		E87D023C2301EABE005C3357 /* TablePracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D023B2301EABE005C3357 /* TablePracticeTests.swift */; };
 		E87D02472301EABE005C3357 /* TablePracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D02462301EABE005C3357 /* TablePracticeUITests.swift */; };
+		E87D02552301EF26005C3357 /* DogBreedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D02542301EF26005C3357 /* DogBreedTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		E87D02422301EABE005C3357 /* TablePracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TablePracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E87D02462301EABE005C3357 /* TablePracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablePracticeUITests.swift; sourceTree = "<group>"; };
 		E87D02482301EABE005C3357 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E87D02542301EF26005C3357 /* DogBreedTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogBreedTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				E87D022D2301EABE005C3357 /* Assets.xcassets */,
 				E87D022F2301EABE005C3357 /* LaunchScreen.storyboard */,
 				E87D02322301EABE005C3357 /* Info.plist */,
+				E87D02542301EF26005C3357 /* DogBreedTableViewController.swift */,
 			);
 			path = TablePractice;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E87D02272301EABB005C3357 /* AppDelegate.swift in Sources */,
+				E87D02552301EF26005C3357 /* DogBreedTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
